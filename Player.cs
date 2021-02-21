@@ -1,4 +1,5 @@
 ﻿// first person controls
+/// going to add a way to sprint or should i just Change the speed of The Player 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
